@@ -1,0 +1,20 @@
+Authors Information
+Author #1
+Name : Ali Hassaan Mughal
+Class: BS CS 6-B.
+Reg No Leader: 173627
+Author #2
+Name : Muhammad Asim Noor
+Class: BS CS 6-B.
+
+About Program.
+Program is known as simplified solitaire encryption.
+It encodes and decodes the message under different card numbers.
+Uses keystreams and conversion of letters into numbers to encrypt
+and then decrypt the message. Learnt a lot from it.
+
+Difficulties.
+Difficulty was the management of time for this project, It took a lot of time as well as effort.
+Different steps, with different procedures and varying in difficulty.
+Made me learn a lot.
+
