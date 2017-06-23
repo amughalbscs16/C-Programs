@@ -1,0 +1,9 @@
+Author Information: 
+Name : Ali Hassaan Mughal
+Class : BS CS 6-B.
+Registration No: 173627
+CMS No: #4.
+
+B) Project is about encrypting or decrypting a string. It was fun to code made me learn a lot.
+C) Difficulty faced is took time to understand and implement.
+D) Keep giving projects.
